@@ -69,4 +69,18 @@ body {
 
 .principal-texto {
     padding-bottom: 0.75rem;
+    clear: both;
 }
+
+.principal-caixa {
+    display: block;
+}
+
+.principal-imagem {
+    width: 576px; /* Largura da imagem */
+    height: 324px; /* Altura da imagem */
+    float: left; /* Imagem a esquerda, texto a direita */
+    
+}
+
+
